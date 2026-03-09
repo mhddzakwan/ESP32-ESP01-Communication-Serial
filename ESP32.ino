@@ -1,6 +1,8 @@
 // connect,KelilingDunia,12julham12
 // get,http://ummuhafidzah.sch.id/iot/get_sensor.php
 // send,http://ummuhafidzah.sch.id/iot/update_sensor.php?suhu=4&kelembapan=10
+// disconnect
+// check
 
 #include <ArduinoJson.h> // Library untuk memparsing JSON
 
